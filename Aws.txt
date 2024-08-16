@@ -1,2 +1,4 @@
 ec2
 vpn
+load 
+auto scaling
